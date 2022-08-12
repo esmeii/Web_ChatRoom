@@ -1,7 +1,7 @@
 {
-  "name": "noom",
+  "name": "chat room",
   "version": "1.0.0",
-  "description": "Zoom clone using NodeJS, WebRTC, and Websockets",
+  "description": "chat room",
   "license": "MIT",
   "scripts": {
     "dev": "nodemon"
