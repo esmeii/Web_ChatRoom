@@ -1,4 +1,4 @@
-#Noom
+#simple chat room 
 
 
-Zoom clone using NodeJS, WebRTC, and Websockets
+chat room  using NodeJS, WebRTC, and Websockets
